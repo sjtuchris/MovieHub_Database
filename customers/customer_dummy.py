@@ -7,7 +7,7 @@ from collections import defaultdict
 from tmdb3 import searchMovie
 from tmdb3 import set_key
 from tmdb3 import Movie
-set_key('0cd9dbe8598f80a33a88e240373400fd')
+set_key('')
 
 cusid=[]
 cusname=[]
